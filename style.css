@@ -9,6 +9,10 @@ body {
     font-size: 36px;
   }
 
+  h2 {
+    font-size: 24px;
+  }
+
   .headshot {
     width: 25vw;
     height: auto;
